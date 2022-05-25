@@ -2,28 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://leandrafaith.github.io/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leandrafaith.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://leandrafaith.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://leandrafaith.github.io/authors/admin/</loc>
   </url><url>
     <loc>https://leandrafaith.github.io/authors/</loc>
   </url><url>
+    <loc>https://leandrafaith.github.io/project/casa0009-website/</loc>
+  </url><url>
     <loc>https://leandrafaith.github.io/categories/</loc>
   </url><url>
-    <loc>https://leandrafaith.github.io/project/artificial-intelligence/</loc>
+    <loc>https://leandrafaith.github.io/project/nlp/</loc>
   </url><url>
     <loc>https://leandrafaith.github.io/tags/data-visualisation/</loc>
   </url><url>
-    <loc>https://leandrafaith.github.io/project/external-project/</loc>
+    <loc>https://leandrafaith.github.io/tags/gis/</loc>
+  </url><url>
+    <loc>https://leandrafaith.github.io/project/is428-va/</loc>
+  </url><url>
+    <loc>https://leandrafaith.github.io/</loc>
+  </url><url>
+    <loc>https://leandrafaith.github.io/project/urbansim/</loc>
+  </url><url>
+    <loc>https://leandrafaith.github.io/tags/mobile-app-development/</loc>
   </url><url>
     <loc>https://leandrafaith.github.io/tags/nlp/</loc>
+  </url><url>
+    <loc>https://leandrafaith.github.io/project/gis/</loc>
   </url><url>
     <loc>https://leandrafaith.github.io/post/</loc>
   </url><url>
@@ -31,6 +34,10 @@
   </url><url>
     <loc>https://leandrafaith.github.io/publication_types/</loc>
   </url><url>
+    <loc>https://leandrafaith.github.io/project/fyp/</loc>
+  </url><url>
     <loc>https://leandrafaith.github.io/tags/</loc>
+  </url><url>
+    <loc>https://leandrafaith.github.io/tags/web-app-development/</loc>
   </url>
 </urlset>
