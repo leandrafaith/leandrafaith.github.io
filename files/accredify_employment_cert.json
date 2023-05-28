@@ -1,0 +1,55 @@
+{
+  "version": "https://schema.openattestation.com/2.0/schema.json",
+  "data": {
+    "id": "6a4596a3-14e1-4b53-8a27-348f0a3131c7:string:3",
+    "name": "66d7660b-49c9-4235-8bc5-eb6a0710a94d:string:Proof of Employment Certificate",
+    "recipient": {
+      "name": "c4b3ee9d-6c8d-453c-9533-6acc71e09fd6:string:Lee Shanzhen Leandra Faith",
+      "nric": "ce538509-c6dc-4770-a937-7b03e41201fd:string:S9941538Z",
+      "email": "57cbac84-ddd9-4c1c-9721-34627e4b9a1d:string:leandrafaith@gmail.com"
+    },
+    "issued": "38fbffd0-4144-4878-83c4-0eac7b8f84a5:string:2021-02-11T00:00:00+08:00",
+    "issuers": [
+      {
+        "name": "0583b708-0b93-4318-a146-632c92dce2ec:string:Accredify",
+        "documentStore": "db1e20a3-394a-4278-9b87-f6b2f93caa93:string:0x84a27A77068eEDDdfC5008C9AF61E1dCB906AEf0",
+        "network": "e7d750eb-6a26-47ab-976e-dbf02205620e:string:ETHEREUM",
+        "identityProof": {
+          "type": "371ca069-dd4c-4d1c-bf7c-79b35c7b8030:string:DNS-TXT",
+          "location": "f6ed8252-e5c9-487d-892e-546f995cb7ab:string:accredify.io"
+        }
+      }
+    ],
+    "employment": [
+      {
+        "position": "5740fa04-b75f-4069-b0dd-9ca4d07e9dad:string:Data Analytics Associate ",
+        "dateStart": "9958eec6-b996-4bb9-b774-dec67ced5abd:string:2020-04-27T00:00:00+08:00",
+        "dateEnd": "34ea08ce-108d-45fd-af26-c09dcc4c8a87:string:2020-07-30T00:00:00+08:00"
+      }
+    ],
+    "recommendations": [
+      {
+        "recommendation": "d023a6ee-cd58-4fab-bad1-b69368370187:string:Leandra joined us on an internship with two others to form a new team of data analysts. Leandra's strong interest in data analytics enabled her to perform well beyond expectations. Leandra also has clear goals for what she wants to do and how she plans to do it. This habit and mindset of setting clear goals has also been portrayed during her internship when she helped guide the team towards their objectives.",
+        "name": "7fe8f524-48da-4781-b16b-aedc4e17cb73:string:Derrick Lee (Chief Technology Officer)"
+      }
+    ],
+    "$template": {
+      "name": "3712d679-c4d4-43c3-8fd0-d0a2bcac50d7:string:ACCREDIFY-2021-1",
+      "type": "2ebcdce0-7654-40fa-aefd-72bc24cacc82:string:EMBEDDED_RENDERER",
+      "url": "842318a7-a102-4936-ab67-346719006c47:string:https://render.accredify.io"
+    },
+    "additionalData": {
+      "qrCode": "a79c4438-81a2-4869-87d2-ac8dec11fe83:string:data:image/png;base64,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"
+    }
+  },
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "0b631b6ef1be0bf271e3c51af07caf3164213433aa68f527daeb8e1b690bb93b",
+    "proof": [
+      "c3b86de5f1496d134fd2789e9f4705efc9648632162bc45eb4cb79538746d111",
+      "947686fdeb18d43a5300411be7b249a0086a83ace37f82ece6ea17e7ce6b1313",
+      "e6d1195519777e716d4140e9fd3e44e935e22dcf502920f30e23f38345d37351"
+    ],
+    "merkleRoot": "2d3273f873f349110dc57c09618143b6e44f4d691160af29f64876c49157fd43"
+  }
+}
